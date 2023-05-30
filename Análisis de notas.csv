@@ -1,0 +1,291 @@
+﻿n_alumno;género;curso;asignatura;eval;analizar_correctas;analizar_incorrectas;identificar_correctas;identificar_incorrectas;comprender_correctas;comprender_incorrectas;caracterizar_correctas;caracterizar_incorrectas;aplicar_correctas;aplicar_incorrectas;puntaje_obtenido_alternativas;puntaje_obtenido_desarrollo;porcentaje_analizar;porcentaje_identificar;porcentaje_comprender;porcentaje_caracterizar;porcentaje_aplicar;porcentaje_alternativas;porcentaje_desarrollo;puntaje_total;nota
+1;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;0;3;4;4;1;1;0;0;9;0;67%;0%;50%;50%;#DIV/0!;47%;0%;9;38
+2;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;3;0;7;1;2;0;0;0;18;3;100%;100%;88%;100%;#DIV/0!;95%;50%;21;62
+3;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;3;0;8;0;1;1;0;0;14;5;33%;100%;100%;50%;#DIV/0!;74%;83%;19;58
+4;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;3;0;8;0;1;1;0;0;18;2;100%;100%;100%;50%;#DIV/0!;95%;33%;20;60
+5;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;2;1;4;4;2;0;0;0;12;4;67%;67%;50%;100%;#DIV/0!;63%;67%;16;52
+6;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;3;0;7;1;2;0;0;0;14;6;33%;100%;88%;100%;#DIV/0!;74%;100%;20;60
+7;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;3;0;8;0;2;0;0;0;19;1;100%;100%;100%;100%;#DIV/0!;100%;17%;20;60
+8;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;2;1;6;2;1;1;0;0;13;1;67%;67%;75%;50%;#DIV/0!;68%;17%;14;48
+9;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;2;1;5;3;2;0;0;0;11;0;33%;67%;63%;100%;#DIV/0!;58%;0%;11;42
+10;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;0;3;2;1;5;3;2;0;0;0;9;5;0%;67%;63%;100%;#DIV/0!;47%;83%;14;48
+11;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;1;2;6;2;2;0;0;0;13;0;67%;33%;75%;100%;#DIV/0!;68%;0%;13;46
+12;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;3;0;5;3;1;1;0;0;13;3;67%;100%;63%;50%;#DIV/0!;68%;50%;16;52
+13;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;0;3;2;1;5;3;2;0;0;0;9;1;0%;67%;63%;100%;#DIV/0!;47%;17%;10;40
+14;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;2;1;6;2;2;0;0;0;12;0;33%;67%;75%;100%;#DIV/0!;63%;0%;12;44
+15;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;3;0;4;4;1;1;0;0;10;0;33%;100%;50%;50%;#DIV/0!;53%;0%;10;40
+16;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;0;3;3;5;1;1;0;0;10;1;100%;0%;38%;50%;#DIV/0!;53%;17%;11;42
+17;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;2;1;6;2;1;1;0;0;15;0;100%;67%;75%;50%;#DIV/0!;79%;0%;15;50
+18;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;2;1;7;1;2;0;0;0;17;6;100%;67%;88%;100%;#DIV/0!;89%;100%;23;66
+19;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;2;1;4;4;1;1;0;0;9;0;33%;67%;50%;50%;#DIV/0!;47%;0%;9;38
+20;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;3;0;6;2;1;1;0;0;16;5;100%;100%;75%;50%;#DIV/0!;84%;83%;21;62
+21;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;1;2;5;3;2;0;0;0;10;2;33%;33%;63%;100%;#DIV/0!;53%;33%;12;44
+22;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;2;1;4;4;1;1;0;0;11;1;67%;67%;50%;50%;#DIV/0!;58%;17%;12;44
+23;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;3;0;5;3;1;1;0;0;11;3;33%;100%;63%;50%;#DIV/0!;58%;50%;14;48
+24;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;2;1;5;3;2;0;0;0;11;0;33%;67%;63%;100%;#DIV/0!;58%;0%;11;42
+25;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;3;0;8;0;2;0;0;0;19;6;100%;100%;100%;100%;#DIV/0!;100%;100%;25;70
+26;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;3;0;6;2;1;1;0;0;14;3;67%;100%;75%;50%;#DIV/0!;74%;50%;17;54
+27;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;3;0;6;2;2;0;0;0;15;5;67%;100%;75%;100%;#DIV/0!;79%;83%;20;60
+28;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;3;0;8;0;2;0;0;0;19;3;100%;100%;100%;100%;#DIV/0!;100%;50%;22;64
+29;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;3;0;8;0;2;0;0;0;17;3;67%;100%;100%;100%;#DIV/0!;89%;50%;20;60
+30;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;2;1;8;0;2;0;0;0;18;2;100%;67%;100%;100%;#DIV/0!;95%;33%;20;60
+31;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;1;2;2;1;4;4;1;1;0;0;9;0;33%;67%;50%;50%;#DIV/0!;47%;0%;9;38
+32;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;3;0;7;1;2;0;0;0;16;5;67%;100%;88%;100%;#DIV/0!;84%;83%;21;62
+33;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;3;0;8;0;2;0;0;0;19;6;100%;100%;100%;100%;#DIV/0!;100%;100%;25;70
+34;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;;;;;;;;;;;0;;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;0%;0;
+35;F;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;0;3;0;7;1;2;0;0;0;18;6;100%;100%;88%;100%;#DIV/0!;95%;100%;24;68
+36;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;1;2;1;6;2;1;1;0;0;13;1;67%;67%;75%;50%;#DIV/0!;68%;17%;14;48
+37;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;3;0;3;7;1;2;0;0;0;13;1;40%;0%;88%;100%;#DIV/0!;57%;17%;14;48
+38;M;1ero Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;;;;;;;;;;;0;;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;0%;0;
+1;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;3;1;8;1;0;0;0;0;19;4;100%;75%;89%;#DIV/0!;#DIV/0!;90%;67%;23;61
+2;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;8;1;0;0;0;0;20;3;100%;100%;89%;#DIV/0!;#DIV/0!;95%;50%;23;62
+3;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;2;2;2;7;0;0;0;0;10;4;75%;50%;22%;#DIV/0!;#DIV/0!;48%;67%;14;42
+4;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;;;;;;;;;;;0;;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;0%;0;49
+5;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;4;0;9;0;0;0;0;0;19;5;75%;100%;100%;#DIV/0!;#DIV/0!;90%;83%;24;64
+6;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;3;1;7;1;0;0;0;0;18;2;100%;75%;88%;#DIV/0!;#DIV/0!;90%;33%;20;55
+7;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;3;1;5;4;0;0;0;0;14;1;75%;75%;56%;#DIV/0!;#DIV/0!;67%;17%;15;43
+8;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;9;0;0;0;0;0;21;5;100%;100%;100%;#DIV/0!;#DIV/0!;100%;83%;26;69
+9;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;7;2;0;0;0;0;19;6;100%;100%;78%;#DIV/0!;#DIV/0!;90%;100%;25;67
+10;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;3;1;4;5;0;0;0;0;15;2;100%;75%;44%;#DIV/0!;#DIV/0!;71%;33%;17;48
+11;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;8;1;0;0;0;0;20;1;100%;100%;89%;#DIV/0!;#DIV/0!;95%;17%;21;57
+12;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;9;0;0;0;0;0;21;3;100%;100%;100%;#DIV/0!;#DIV/0!;100%;50%;24;63
+13;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;3;1;7;2;0;0;0;0;18;2;100%;75%;78%;#DIV/0!;#DIV/0!;86%;33%;20;54
+14;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;;;;;;;;;;;0;;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;0%;0;
+15;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;3;1;9;0;0;0;0;0;20;3;100%;75%;100%;#DIV/0!;#DIV/0!;95%;50%;23;63
+16;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;4;0;5;4;0;0;0;0;15;2;75%;100%;56%;#DIV/0!;#DIV/0!;71%;33%;17;48
+17;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;4;0;9;0;0;0;0;0;19;3;75%;100%;100%;#DIV/0!;#DIV/0!;90%;50%;22;61
+18;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;2;0;6;3;0;0;0;0;14;4;75%;100%;67%;#DIV/0!;#DIV/0!;74%;67%;18;50
+19;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;9;0;0;0;0;0;21;6;100%;100%;100%;#DIV/0!;#DIV/0!;100%;100%;27;70
+20;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;8;1;0;0;0;0;20;5;100%;100%;89%;#DIV/0!;#DIV/0!;95%;83%;25;67
+21;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;3;1;4;5;0;0;0;0;15;1;100%;75%;44%;#DIV/0!;#DIV/0!;71%;17%;16;46
+22;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;2;2;2;4;5;0;0;0;0;10;0;50%;50%;44%;#DIV/0!;#DIV/0!;48%;0%;10;35
+23;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;8;1;0;0;0;0;20;5;100%;100%;89%;#DIV/0!;#DIV/0!;95%;83%;25;66
+24;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;7;2;0;0;0;0;19;3;100%;100%;78%;#DIV/0!;#DIV/0!;90%;50%;22;59
+25;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;2;2;8;1;0;0;0;0;18;2;100%;50%;89%;#DIV/0!;#DIV/0!;86%;33%;20;54
+26;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;3;1;6;3;0;0;0;0;15;2;75%;75%;67%;#DIV/0!;#DIV/0!;71%;33%;17;48
+27;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;8;1;0;0;0;0;20;5;100%;100%;89%;#DIV/0!;#DIV/0!;95%;83%;25;66
+28;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;2;2;6;3;0;0;0;0;16;2;100%;50%;67%;#DIV/0!;#DIV/0!;76%;33%;18;50
+29;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;2;2;7;2;0;0;0;0;15;3;75%;50%;78%;#DIV/0!;#DIV/0!;71%;50%;18;50
+30;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;2;2;7;2;0;0;0;0;17;5;100%;50%;78%;#DIV/0!;#DIV/0!;81%;83%;22;59
+31;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;2;3;1;8;1;0;0;0;0;15;3;50%;75%;89%;#DIV/0!;#DIV/0!;71%;50%;18;50
+32;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;4;0;8;1;0;0;0;0;20;4;100%;100%;89%;#DIV/0!;#DIV/0!;95%;67%;24;63
+33;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;4;0;8;1;0;0;0;0;18;4;75%;100%;89%;#DIV/0!;#DIV/0!;86%;67%;22;59
+34;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;4;0;6;3;0;0;0;0;16;3;75%;100%;67%;#DIV/0!;#DIV/0!;76%;50%;19;54
+35;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;4;0;8;1;0;0;0;0;18;3;75%;100%;89%;#DIV/0!;#DIV/0!;86%;50%;21;57
+36;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;2;2;5;4;0;0;0;0;13;1;75%;50%;56%;#DIV/0!;#DIV/0!;62%;17%;14;42
+37;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;3;1;0;4;5;4;0;0;0;0;11;2;75%;0%;56%;#DIV/0!;#DIV/0!;52%;33%;13;39
+38;M;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;4;0;3;1;9;0;0;0;0;0;20;6;100%;75%;100%;#DIV/0!;#DIV/0!;95%;100%;26;68
+39;F;2do Medio;Historia, Geografía y Ciencias Sociales;sumativa 1;2;2;3;1;3;6;0;0;0;0;10;0;50%;75%;33%;#DIV/0!;#DIV/0!;48%;0%;10;35
+1;M;3ero Medio;CHDP;sumativa 1;7;1;3;0;4;0;0;0;0;0;21;10;88%;100%;100%;#DIV/0!;#DIV/0!;91%;91%;31;68
+2;M;3ero Medio;CHDP;sumativa 1;7;1;2;1;4;0;0;0;0;0;20;8;88%;67%;100%;#DIV/0!;#DIV/0!;87%;73%;28;62
+3;F;3ero Medio;CHDP;sumativa 1;7;1;2;1;4;0;0;0;0;0;20;6;88%;67%;100%;#DIV/0!;#DIV/0!;87%;55%;26;59
+4;M;3ero Medio;CHDP;sumativa 1;8;0;2;1;4;0;0;0;0;0;22;4;100%;67%;100%;#DIV/0!;#DIV/0!;96%;36%;26;56
+5;M;3ero Medio;CHDP;sumativa 1;7;1;3;0;4;0;0;0;0;0;21;5;88%;100%;100%;#DIV/0!;#DIV/0!;91%;45%;26;59
+6;M;3ero Medio;CHDP;sumativa 1;8;0;2;1;4;0;0;0;0;0;22;2;100%;67%;100%;#DIV/0!;#DIV/0!;96%;18%;24;55
+7;F;3ero Medio;CHDP;sumativa 1;6;2;2;1;4;0;0;0;0;0;18;2;75%;67%;100%;#DIV/0!;#DIV/0!;78%;18%;20;48
+8;M;3ero Medio;CHDP;sumativa 1;6;2;2;1;4;0;0;0;0;0;18;2;75%;67%;100%;#DIV/0!;#DIV/0!;78%;18%;20;48
+9;M;3ero Medio;CHDP;sumativa 1;2;6;2;1;3;1;0;0;0;0;9;1;25%;67%;75%;#DIV/0!;#DIV/0!;39%;9%;10;35
+10;M;3ero Medio;CHDP;sumativa 1;6;2;1;2;4;0;0;0;0;0;17;2;75%;33%;100%;#DIV/0!;#DIV/0!;74%;18%;19;47
+11;F;3ero Medio;Formación Ciudadana;sumativa 1;3;1;5;2;1;3;0;0;0;0;12;2;75%;71%;25%;#DIV/0!;#DIV/0!;63%;17%;14;37
+7;F;3ero Medio;Formación Ciudadana;sumativa 1;3;1;5;2;4;0;0;0;0;0;15;7;75%;71%;100%;#DIV/0!;#DIV/0!;79%;58%;22;53
+12;M;3ero Medio;Formación Ciudadana;sumativa 1;4;0;7;0;4;0;0;0;0;0;19;11;100%;100%;100%;#DIV/0!;#DIV/0!;100%;92%;30;68
+13;M;3ero Medio;Formación Ciudadana;sumativa 1;3;1;6;1;3;1;0;0;0;0;15;2;75%;86%;75%;#DIV/0!;#DIV/0!;79%;17%;17;43
+14;M;3ero Medio;Formación Ciudadana;sumativa 1;3;1;6;1;4;0;0;0;0;0;16;11;75%;86%;100%;#DIV/0!;#DIV/0!;84%;92%;27;62
+15;F;3ero Medio;Formación Ciudadana;sumativa 1;4;0;7;0;4;0;0;0;0;0;19;12;100%;100%;100%;#DIV/0!;#DIV/0!;100%;100%;31;70
+16;F;3ero Medio;Formación Ciudadana;sumativa 1;3;1;7;0;3;1;0;0;0;0;16;7;75%;100%;75%;#DIV/0!;#DIV/0!;84%;58%;23;55
+17;F;3ero Medio;Formación Ciudadana;sumativa 1;2;2;6;1;3;1;0;0;0;0;13;0;50%;86%;75%;#DIV/0!;#DIV/0!;68%;0%;13;35
+10;M;3ero Medio;Formación Ciudadana;sumativa 1;2;2;5;2;3;1;0;0;0;0;12;4;50%;71%;75%;#DIV/0!;#DIV/0!;63%;33%;16;41
+18;M;3ero Medio;Formación Ciudadana;sumativa 1;4;0;7;0;3;1;0;0;0;0;18;12;100%;100%;75%;#DIV/0!;#DIV/0!;95%;100%;30;68
+19;F;3ero Medio;Formación Ciudadana;sumativa 1;4;0;7;0;3;1;0;0;0;0;18;6;100%;100%;75%;#DIV/0!;#DIV/0!;95%;50%;24;56
+20;M;3ero Medio;Formación Ciudadana;sumativa 1;2;2;5;2;3;1;0;0;0;0;12;5;50%;71%;75%;#DIV/0!;#DIV/0!;63%;42%;17;43
+4;M;3ero Medio;Formación Ciudadana;sumativa 1;3;1;7;0;4;0;0;0;0;0;17;10;75%;100%;100%;#DIV/0!;#DIV/0!;89%;83%;27;62
+21;M;3ero Medio;Formación Ciudadana;sumativa 1;4;0;6;1;4;0;0;0;0;0;18;12;100%;86%;100%;#DIV/0!;#DIV/0!;95%;100%;30;68
+22;F;3ero Medio;Formación Ciudadana;sumativa 1;4;0;6;1;4;0;0;0;0;0;18;8;100%;86%;100%;#DIV/0!;#DIV/0!;95%;67%;26;60
+23;M;3ero Medio;Formación Ciudadana;sumativa 1;4;0;7;0;4;0;0;0;0;0;19;8;100%;100%;100%;#DIV/0!;#DIV/0!;100%;67%;27;62
+6;M;3ero Medio;Formación Ciudadana;sumativa 1;3;1;6;1;4;0;0;0;0;0;16;5;75%;86%;100%;#DIV/0!;#DIV/0!;84%;42%;21;51
+24;M;3ero Medio;Formación Ciudadana;sumativa 1;3;1;6;1;4;0;0;0;0;0;16;5;75%;86%;100%;#DIV/0!;#DIV/0!;84%;42%;21;51
+9;M;3ero Medio;Formación Ciudadana;sumativa 1;4;0;4;3;4;0;0;0;0;0;16;0;100%;57%;100%;#DIV/0!;#DIV/0!;84%;0%;16;41
+5;M;3ero Medio;Formación Ciudadana;sumativa 1;3;1;7;0;4;0;0;0;0;0;17;10;75%;100%;100%;#DIV/0!;#DIV/0!;89%;83%;27;62
+25;F;3ero Medio;Formación Ciudadana;sumativa 1;3;1;6;1;2;2;0;0;0;0;14;6;75%;86%;50%;#DIV/0!;#DIV/0!;74%;50%;20;49
+26;M;3ero Medio;Formación Ciudadana;sumativa 1;2;2;4;3;2;2;0;0;0;0;10;0;50%;57%;50%;#DIV/0!;#DIV/0!;53%;0%;10;29
+27;M;3ero Medio;Formación Ciudadana;sumativa 1;2;2;7;0;4;0;0;0;0;0;15;8;50%;100%;100%;#DIV/0!;#DIV/0!;79%;67%;23;55
+2;M;3ero Medio;Formación Ciudadana;sumativa 1;4;0;5;2;4;0;0;0;0;0;17;7;100%;71%;100%;#DIV/0!;#DIV/0!;89%;58%;24;56
+28;F;3ero Medio;Formación Ciudadana;sumativa 1;2;2;6;1;3;1;0;0;0;0;13;0;50%;86%;75%;#DIV/0!;#DIV/0!;68%;0%;13;35
+29;F;3ero Medio;Formación Ciudadana;sumativa 1;3;1;7;0;4;0;0;0;0;0;17;0;75%;100%;100%;#DIV/0!;#DIV/0!;89%;0%;17;43
+30;M;3ero Medio;Formación Ciudadana;sumativa 1;3;1;7;0;3;1;0;0;0;0;16;9;75%;100%;75%;#DIV/0!;#DIV/0!;84%;75%;25;58
+31;M;3ero Medio;Formación Ciudadana;sumativa 1;3;1;6;1;4;0;0;0;0;0;16;8;75%;86%;100%;#DIV/0!;#DIV/0!;84%;67%;24;56
+32;F;3ero Medio;Formación Ciudadana;sumativa 1;;;;;;;;;;;;;;;;;;;;;68
+1;M;3ero Medio;Formación Ciudadana;sumativa 1;4;0;6;1;4;0;0;0;0;0;18;10;100%;86%;100%;#DIV/0!;#DIV/0!;95%;83%;28;64
+33;M;3ero Medio;Formación Ciudadana;sumativa 1;;;;;;;;;;;;;;;;;;;;;43
+8;M;3ero Medio;Formación Ciudadana;sumativa 1;;;;;;;;;;;;;;;;;;;;;46
+34;M;3ero Medio;Formación Ciudadana;sumativa 1;;;;;;;;;;;0;;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;#DIV/0!;0%;0;27
+1;M;4to Medio;CHDP;sumativa 1;8;0;2;1;4;0;0;0;0;0;22;6;100%;67%;100%;#DIV/0!;#DIV/0!;96%;55%;28;62
+3;M;4to Medio;CHDP;sumativa 1;6;2;1;2;3;1;0;0;0;0;16;1;75%;33%;75%;#DIV/0!;#DIV/0!;70%;9%;17;43
+6;M;4to Medio;CHDP;sumativa 1;7;1;2;1;4;0;0;0;0;0;20;2;88%;67%;100%;#DIV/0!;#DIV/0!;87%;18%;22;52
+7;M;4to Medio;CHDP;sumativa 1;7;1;3;0;2;2;0;0;0;0;19;3;88%;100%;50%;#DIV/0!;#DIV/0!;83%;27%;22;52
+10;M;4to Medio;CHDP;sumativa 1;6;2;2;1;4;0;0;0;0;0;18;5;75%;67%;100%;#DIV/0!;#DIV/0!;78%;45%;23;54
+11;M;4to Medio;CHDP;sumativa 1;8;0;3;0;4;0;0;0;0;0;23;6;100%;100%;100%;#DIV/0!;#DIV/0!;100%;55%;29;64
+12;M;4to Medio;CHDP;sumativa 1;7;1;2;1;4;0;0;0;0;0;20;4;88%;67%;100%;#DIV/0!;#DIV/0!;87%;36%;24;55
+13;F;4to Medio;CHDP;sumativa 1;7;1;3;0;4;0;0;0;0;0;21;7;88%;100%;100%;#DIV/0!;#DIV/0!;91%;64%;28;62
+17;M;4to Medio;CHDP;sumativa 1;6;2;1;2;4;0;0;0;0;0;17;4;75%;33%;100%;#DIV/0!;#DIV/0!;74%;36%;21;50
+19;M;4to Medio;CHDP;sumativa 1;6;2;2;1;3;1;0;0;0;0;17;1;75%;67%;75%;#DIV/0!;#DIV/0!;74%;9%;18;45
+20;M;4to Medio;CHDP;sumativa 1;6;2;2;1;4;0;0;0;0;0;18;2;75%;67%;100%;#DIV/0!;#DIV/0!;78%;18%;20;48
+21;M;4to Medio;CHDP;sumativa 1;7;1;3;0;4;0;0;0;0;0;21;1;88%;100%;100%;#DIV/0!;#DIV/0!;91%;9%;22;52
+27;F;4to Medio;CHDP;sumativa 1;8;0;3;0;3;1;0;0;0;0;22;5;100%;100%;75%;#DIV/0!;#DIV/0!;96%;45%;27;61
+29;F;4to Medio;CHDP;sumativa 1;6;2;1;2;3;1;0;0;0;0;16;3;75%;33%;75%;#DIV/0!;#DIV/0!;70%;27%;19;47
+30;M;4to Medio;CHDP;sumativa 1;5;3;3;0;1;3;0;0;0;0;14;1;63%;100%;25%;#DIV/0!;#DIV/0!;61%;9%;15;41
+32;M;4to Medio;CHDP;sumativa 1;7;1;2;1;4;0;0;0;0;0;20;0;88%;67%;100%;#DIV/0!;#DIV/0!;87%;0%;20;48
+1;M;4to Medio;Formación Ciudadana;sumativa 1;6;2;3;0;2;1;0;0;0;1;17;3;75%;100%;67%;#DIV/0!;0%;71%;50%;20;50
+2;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;2;1;0;0;1;0;23;2;100%;100%;67%;#DIV/0!;100%;96%;33%;25;60
+3;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;1;2;0;0;0;1;18;2;88%;100%;33%;#DIV/0!;0%;75%;33%;20;50
+4;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;2;1;3;0;0;0;1;0;23;4;100%;67%;100%;#DIV/0!;100%;96%;67%;27;64
+5;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;3;0;0;0;1;0;22;6;88%;100%;100%;#DIV/0!;100%;92%;100%;28;66
+6;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;3;0;0;0;1;0;22;6;88%;100%;100%;#DIV/0!;100%;92%;100%;28;66
+7;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;2;1;2;1;0;0;1;0;20;5;88%;67%;67%;#DIV/0!;100%;83%;83%;25;60
+8;M;4to Medio;Formación Ciudadana;sumativa 1;3;5;0;3;2;1;0;0;0;1;8;2;38%;0%;67%;#DIV/0!;0%;33%;33%;10;30
+9;F;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;3;0;0;0;1;0;22;3;88%;100%;100%;#DIV/0!;100%;92%;50%;25;60
+10;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;2;100%;100%;100%;#DIV/0!;100%;100%;33%;26;62
+11;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;6;100%;100%;100%;#DIV/0!;100%;100%;100%;30;70
+12;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;1;2;0;0;0;1;18;1;88%;100%;33%;#DIV/0!;0%;75%;17%;19;48
+13;F;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;6;100%;100%;100%;#DIV/0!;100%;100%;100%;30;70
+14;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;6;100%;100%;100%;#DIV/0!;100%;100%;100%;30;70
+15;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;3;0;0;0;1;0;22;4;88%;100%;100%;#DIV/0!;100%;92%;67%;26;62
+16;F;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;3;0;0;0;1;0;22;6;88%;100%;100%;#DIV/0!;100%;92%;100%;28;66
+17;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;2;1;0;0;0;1;19;3;88%;100%;67%;#DIV/0!;0%;79%;50%;22;54
+18;F;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;2;1;0;0;1;0;23;6;100%;100%;67%;#DIV/0!;100%;96%;100%;29;68
+18;F;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;6;100%;100%;100%;#DIV/0!;100%;100%;100%;30;70
+19;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;3;0;0;0;1;0;22;3;88%;100%;100%;#DIV/0!;100%;92%;50%;25;60
+20;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;2;1;0;0;1;0;21;5;88%;100%;67%;#DIV/0!;100%;88%;83%;26;62
+21;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;5;100%;100%;100%;#DIV/0!;100%;100%;83%;29;68
+22;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;6;100%;100%;100%;#DIV/0!;100%;100%;100%;30;70
+23;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;2;1;2;1;0;0;0;1;20;4;100%;67%;67%;#DIV/0!;0%;83%;67%;24;58
+24;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;3;0;0;0;1;0;22;5;88%;100%;100%;#DIV/0!;100%;92%;83%;27;64
+25;M;4to Medio;Formación Ciudadana;sumativa 1;7;1;3;0;3;0;0;0;0;1;20;3;88%;100%;100%;#DIV/0!;0%;83%;50%;23;56
+26;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;1;2;1;2;0;0;1;0;20;5;100%;33%;33%;#DIV/0!;100%;83%;83%;25;60
+27;F;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;6;100%;100%;100%;#DIV/0!;100%;100%;100%;30;70
+28;F;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;6;100%;100%;100%;#DIV/0!;100%;100%;100%;30;70
+29;F;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;4;100%;100%;100%;#DIV/0!;100%;100%;67%;28;66
+30;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;1;2;0;0;1;0;22;2;100%;100%;33%;#DIV/0!;100%;92%;33%;24;58
+31;F;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;3;100%;100%;100%;#DIV/0!;100%;100%;50%;27;64
+32;M;4to Medio;Formación Ciudadana;sumativa 1;6;2;3;0;3;0;0;0;1;0;20;2;75%;100%;100%;#DIV/0!;100%;83%;33%;22;54
+33;M;4to Medio;Formación Ciudadana;sumativa 1;8;0;3;0;3;0;0;0;1;0;24;4;100%;100%;100%;#DIV/0!;100%;100%;67%;28;66
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
